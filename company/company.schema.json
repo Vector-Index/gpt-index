@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Company",
+  "type": "object",
+  "properties": {
+    "company_name": {
+      "type": "string",
+      "description": "The official name of the company."
+    },
+    "description": {
+      "type": "string",
+      "description": "A brief summary of the company's mission, values, or key offerings."
+    },
+    "poc_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL of the company's proof of concept or main service page."
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "description": "Primary contact email of the company."
+    },
+    "main_business": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "A list of the company's primary business areas or industries."
+    },
+    "index_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "The company's main website or homepage URL."
+    },
+    "phone_number": {
+      "type": "string",
+      "description": "The primary contact phone number of the company."
+    },
+    "address": {
+      "type": "string",
+      "description": "The physical address of the company's headquarters."
+    },
+    "founded_year": {
+      "type": "integer",
+      "description": "The year the company was founded."
+    },
+    "number_of_employees": {
+      "type": "integer",
+      "description": "The total number of employees working in the company."
+    },
+    "country": {
+      "type": "string",
+      "description": "The country where the company is headquartered."
+    },
+    "social_media": {
+      "type": "object",
+      "properties": {
+        "linkedin": {
+          "type": "string",
+          "format": "uri",
+          "description": "Company's LinkedIn profile URL."
+        },
+        "twitter": {
+          "type": "string",
+          "format": "uri",
+          "description": "Company's Twitter profile URL."
+        },
+        "facebook": {
+          "type": "string",
+          "format": "uri",
+          "description": "Company's Facebook page URL."
+        }
+      },
+      "description": "Social media profile links of the company."
+    }
+  },
+  "required": [
+    "company_name",
+    "poc_url",
+    "email",
+    "main_business",
+    "index_url"
+  ]
+}
