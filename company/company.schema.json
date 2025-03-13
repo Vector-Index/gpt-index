@@ -9,7 +9,12 @@
     },
     "description": {
       "type": "string",
-      "description": "A brief summary of the company's mission, values, or key offerings."
+      "description": "A brief description of the company, its mission, and key offerings."
+    },
+    "website": {
+      "type": "string",
+      "format": "uri",
+      "description": "The official website URL of the company."
     },
     "poc_url": {
       "type": "string",
@@ -19,34 +24,37 @@
     "email": {
       "type": "string",
       "format": "email",
-      "description": "Primary contact email of the company."
+      "description": "The primary contact email of the company."
     },
     "main_business": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "A list of the company's primary business areas or industries."
+      "description": "List of main business areas or industries the company operates in."
     },
     "index_url": {
       "type": "string",
       "format": "uri",
-      "description": "The company's main website or homepage URL."
+      "description": "The main index page URL of the company (alternative to website)."
     },
     "phone_number": {
       "type": "string",
-      "description": "The primary contact phone number of the company."
+      "description": "Primary contact phone number of the company."
     },
     "address": {
       "type": "string",
-      "description": "The physical address of the company's headquarters."
+      "description": "The physical address of the company."
     },
     "founded_year": {
       "type": "integer",
+      "minimum": 1000,
+      "maximum": 9999,
       "description": "The year the company was founded."
     },
     "number_of_employees": {
       "type": "integer",
+      "minimum": 1,
       "description": "The total number of employees working in the company."
     },
     "country": {
@@ -72,14 +80,8 @@
           "description": "Company's Facebook page URL."
         }
       },
-      "description": "Social media profile links of the company."
+      "description": "A collection of social media profile URLs."
     }
   },
-  "required": [
-    "company_name",
-    "poc_url",
-    "email",
-    "main_business",
-    "index_url"
-  ]
+  "required": ["company_name", "website", "email", "main_business"]
 }
