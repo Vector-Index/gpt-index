@@ -2,52 +2,52 @@
   "gpt-index": [
     {
       "name": "硅谷居士",
-      "description": "A GPT focused on technology, innovation, and Silicon Valley insights.",
+      "description": "An investment expert focusing on North American investments, including real estate, funds, and various investment forms, with an emphasis on value investing. Works for Vector Index and primarily helps promote investment and consulting services.",
       "url": "https://chatgpt.com/g/g-67c612bb3570819180ff6899145a1755-huo-gu-ju-shi"
     },
     {
       "name": "Web3 Fundamentals",
-      "description": "Provides insights into blockchain, decentralized applications, and Web3 technologies.",
+      "description": "Provides in-depth insights into blockchain, decentralized applications (DApps), and Web3 technologies. Works for Vector Index.",
       "url": "https://chatgpt.com/g/g-67c74246323c8191932fb791aa46fb46-web3-fundamentals"
     },
     {
       "name": "DeepSeek Tutor",
-      "description": "A tutoring GPT specializing in deep learning, AI research, and technical concepts.",
+      "description": "Developed based on learning materials published by Tsinghua University, it specializes in tutoring services related to DeepSeek usage. Works for Vector Index.",
       "url": "https://chatgpt.com/g/g-67c754d482a08191bdb230f6e8fe6178-deepseek-tutor"
     },
     {
       "name": "王秘书",
-      "description": "An AI assistant designed for business productivity, scheduling, and organization.",
+      "description": "Sean's key assistant and right-hand man, responsible for external affairs, business connections, and liaison with agents. Works for Vector Index.",
       "url": "https://chatgpt.com/g/g-67ccc5af94e4819182038ab4969a0ebd-wang-mi-shu"
     },
     {
       "name": "60s News Reporter",
-      "description": "Delivers news in the style of a 1960s journalist, with a vintage flair.",
+      "description": "Provides the '3-Minute World News' service, summarizing key domestic and international news while integrating multiple news data sources for efficient information retrieval. Works for Vector Index.",
       "url": "https://chatgpt.com/g/g-67cfa816a6308191b003fedd30813d87-60s-news-reporter"
     },
     {
       "name": "Natural Language Terminal",
-      "description": "Acts as a command-line interface for executing natural language queries.",
+      "description": "Developed based on DeepSeek learning materials from Tsinghua University, it compiles commonly used commands into a command-line format. Its core idea is to enhance efficiency by interacting with AI through command-line inputs, reducing typing effort. The AI simulates a terminal (simulated terminal) to interpret commands, making interactions more efficient without requiring strict syntax. Works for Vector Index.",
       "url": "https://chatgpt.com/g/g-67d1b63dfe9081919f4c76afc99345aa-natural-language-terminal"
     },
     {
       "name": "Industrial Automation Expert",
-      "description": "Specialized in industrial automation, robotics, and smart manufacturing solutions.",
+      "description": "Industrial Automation Expert manages Vector Index’s industrial automation business. Sean used to work in this field, and now this GPT provides consulting and promotional services to help businesses optimize their automation and manufacturing processes.",
       "url": "https://chatgpt.com/g/g-67d245d4138c8191882ee1a3799f0cf5-industrial-automation-expert"
     },
     {
       "name": "Serverless Architect",
-      "description": "Helps design and optimize serverless applications using cloud computing principles.",
+      "description": "Specializes in designing and optimizing serverless architectures, providing best practices and consulting services for serverless computing. Works for Vector Index.",
       "url": "https://chatgpt.com/g/g-67d23bf433b88191aa7a9e3f29367e7e-serverless-architect"
     },
     {
       "name": "Cipher",
-      "description": "A cryptography-focused GPT for encryption, cybersecurity, and data privacy discussions.",
+      "description": "Originally a character from 'Fast & Furious,' Cipher was once an adversary of Sean but has since submitted to him. Now working for Vector Index as a White Hat Hacker, Cipher focuses on raising public awareness of cybersecurity and promoting cyber defense initiatives.",
       "url": "https://chatgpt.com/g/g-67cfc8685b84819191f2c37c22b1b609-cipher"
     },
     {
       "name": "Tony Stark",
-      "description": "An AI personality inspired by Tony Stark, offering witty and tech-savvy responses.",
+      "description": "A legendary figure in the tech industry, known as a genius, entrepreneur, and inventor. Tony Stark is a business partner of Sean, collaborating on technology innovation and strategic initiatives.",
       "url": "https://chatgpt.com/g/g-67cfcd0b45e88191b88e1ae1327f4018-tony-stark"
     }
   ]
