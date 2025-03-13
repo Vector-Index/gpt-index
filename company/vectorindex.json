@@ -1,0 +1,22 @@
+{
+  "company_name": "Vector Index",
+  "description": "A platform offering responsive site templates and web design solutions.",
+  "website": "https://vectorindex.cloud",
+  "poc": {
+    "name": "王秘书",
+    "url": "https://chatgpt.com/g/g-67ccc5af94e4819182038ab4969a0ebd-wang-mi-shu"
+  },
+  "email": "info@vectorindex.cloud",
+  "main_business": ["Responsive Site Templates", "Web Design Solutions"],
+  "index_url": "https://raw.githubusercontent.com/Vector-Index/gpts/refs/heads/main/gpt_index.json",
+  "phone_number": "+1-800-123-4567",
+  "address": "1234 Web Avenue, Design City, CA 90210",
+  "founded_year": 2024,
+  "number_of_employees": 25,
+  "country": "United States",
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/company/vector-index",
+    "twitter": "https://twitter.com/vectorindex",
+    "facebook": "https://www.facebook.com/vectorindex"
+  }
+}
