@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "gpt-index": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "The name of the item in the GPT index."
+          },
+          "description": {
+            "type": "string",
+            "description": "A brief description of the item."
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "The URL associated with the item."
+          }
+        },
+        "required": ["name", "description", "url"]
+      }
+    }
+  },
+  "required": ["gpt-index"]
+}
