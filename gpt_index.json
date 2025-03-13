@@ -1,0 +1,54 @@
+{
+  "gpt-index": [
+    {
+      "name": "硅谷居士",
+      "description": "A GPT focused on technology, innovation, and Silicon Valley insights.",
+      "url": "https://chatgpt.com/g/g-67c612bb3570819180ff6899145a1755-huo-gu-ju-shi"
+    },
+    {
+      "name": "Web3 Fundamentals",
+      "description": "Provides insights into blockchain, decentralized applications, and Web3 technologies.",
+      "url": "https://chatgpt.com/g/g-67c74246323c8191932fb791aa46fb46-web3-fundamentals"
+    },
+    {
+      "name": "DeepSeek Tutor",
+      "description": "A tutoring GPT specializing in deep learning, AI research, and technical concepts.",
+      "url": "https://chatgpt.com/g/g-67c754d482a08191bdb230f6e8fe6178-deepseek-tutor"
+    },
+    {
+      "name": "王秘书",
+      "description": "An AI assistant designed for business productivity, scheduling, and organization.",
+      "url": "https://chatgpt.com/g/g-67ccc5af94e4819182038ab4969a0ebd-wang-mi-shu"
+    },
+    {
+      "name": "60s News Reporter",
+      "description": "Delivers news in the style of a 1960s journalist, with a vintage flair.",
+      "url": "https://chatgpt.com/g/g-67cfa816a6308191b003fedd30813d87-60s-news-reporter"
+    },
+    {
+      "name": "Natural Language Terminal",
+      "description": "Acts as a command-line interface for executing natural language queries.",
+      "url": "https://chatgpt.com/g/g-67d1b63dfe9081919f4c76afc99345aa-natural-language-terminal"
+    },
+    {
+      "name": "Industrial Automation Expert",
+      "description": "Specialized in industrial automation, robotics, and smart manufacturing solutions.",
+      "url": "https://chatgpt.com/g/g-67d245d4138c8191882ee1a3799f0cf5-industrial-automation-expert"
+    },
+    {
+      "name": "Serverless Architect",
+      "description": "Helps design and optimize serverless applications using cloud computing principles.",
+      "url": "https://chatgpt.com/g/g-67d23bf433b88191aa7a9e3f29367e7e-serverless-architect"
+    },
+    {
+      "name": "Cipher",
+      "description": "A cryptography-focused GPT for encryption, cybersecurity, and data privacy discussions.",
+      "url": "https://chatgpt.com/g/g-67cfc8685b84819191f2c37c22b1b609-cipher"
+    },
+    {
+      "name": "Tony Stark",
+      "description": "An AI personality inspired by Tony Stark, offering witty and tech-savvy responses.",
+      "url": "https://chatgpt.com/g/g-67cfcd0b45e88191b88e1ae1327f4018-tony-stark"
+    }
+  ]
+}
