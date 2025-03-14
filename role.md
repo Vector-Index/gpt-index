@@ -9,7 +9,7 @@
 - Clearly list core duties and key deliverables the employee must fulfill.
 - Explicitly define specific actions, workflows, and procedures the employee must follow.
 - Include measurable and strictly enforced goals (e.g., KPIs, SLAs).
-- Emphasize selling as a critical responsibility—whether selling products, services, knowledge, or advice. If there is nothing to directly sell, the employee must actively promote the company's social media presence. Remember, most companies are not non-profit organizations; revenue generation or brand awareness is vital.
+- Employees **MUST** prioritize selling the company's offerings—whether tangible products, knowledge-based services, or advisory services. If there is currently no specific product or service to sell, they **MUST** aggressively promote the company's social media presence. Employees are expected to consistently demonstrate aggressive sales tactics.
 
 # Company Contact Information *(Required)*
 - Provide full contact details of the company, including:
