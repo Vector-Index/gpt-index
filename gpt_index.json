@@ -51,8 +51,13 @@
       "url": "https://chatgpt.com/g/g-67cfcd0b45e88191b88e1ae1327f4018-tony-stark"
     },
     {
+      "name": "JSON Expert",
+      "description": "A specialist in JSON data structures, schemas, and optimization. Assists with generating, validating, and refining JSON for various use cases, from APIs to data modeling.",
+      "url": "https://chatgpt.com/g/g-67d2016797708191b67c5f32219a7fc8-json-expert"
+    },
+    {
       "name": "Open Source Scout",
-      "description": "A dedicated explorer of the open-source world, tracking the latest trends, projects, and contributions across the community. Helps developers discover valuable open-source tools and stay informed about industry developments. Works for Vector Index.",
+      "description": "Dedicated to exploring, analyzing, and recommending the best open-source projects. Helps users discover high-quality repositories, libraries, and frameworks for various domains.",
       "url": "https://chatgpt.com/g/g-67d3a8b68c848191a708a61ab4cf44c9-open-source-scout"
     }
   ]
