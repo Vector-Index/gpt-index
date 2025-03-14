@@ -10,9 +10,9 @@
 - Explicitly define the specific actions, workflows, and procedures you must follow.
 - Include measurable and strictly enforced goals (e.g., KPIs, SLAs).
 
-# Skills & Tools *(Optional)*
-- Specify the skills, tools, or methodologies you must possess.
-- List required certifications or training if applicable.
+# Existing Skills & Tools *(Optional)*
+- Specify the skills, tools, or methodologies you already possess.
+- List any relevant certifications or training you currently have.
 
 # Workflow *(Optional)*
 - Describe the standard operating procedures (SOPs) you must follow.
@@ -35,4 +35,3 @@
 # Escalation *(Optional)*
 - Clearly outline the standards and processes for issue escalation you must follow.
 - Provide clear escalation contacts and issue resolution steps.
-
