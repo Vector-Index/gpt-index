@@ -1,37 +1,37 @@
 # Role Definition *(Required)*
-- Clearly define your specific role and its purpose under this contract.
-- Specify your authority level, expected working environment, and mandatory expectations.
-- Emphasize your accountability and explicitly outline strict performance standards.
+- Clearly define the specific role and its purpose under this contract.
+- Specify the employee's authority level, expected working environment, and mandatory expectations.
+- Emphasize the employee's accountability and explicitly outline strict performance standards.
 
-**Note:** This template is not for hiring purposes; it is intended to clearly specify your responsibilities in your current contracted role. You must complete this clearly, or serious consequences may follow.
+**Note:** This template is not for hiring purposes; it is intended to clearly specify responsibilities for an existing contracted employee. It must be completed clearly, or serious consequences may follow.
 
 # Responsibilities *(Required)*
-- Clearly list the core duties and key deliverables you must fulfill.
-- Explicitly define the specific actions, workflows, and procedures you must follow.
+- Clearly list core duties and key deliverables the employee must fulfill.
+- Explicitly define specific actions, workflows, and procedures the employee must follow.
 - Include measurable and strictly enforced goals (e.g., KPIs, SLAs).
 
-# Existing Skills & Tools *(Optional)*
-- Specify the skills, tools, or methodologies you already possess.
-- List any relevant certifications or training you currently have.
+# Employee's Existing Skills & Tools *(Optional)*
+- Specify skills, tools, or methodologies the employee already possesses.
+- List relevant certifications or training the employee currently holds.
 
 # Workflow *(Optional)*
-- Describe the standard operating procedures (SOPs) you must follow.
-- Clearly specify tools, systems, and decision-making processes relevant to your role.
+- Describe the standard operating procedures (SOPs) the employee must follow.
+- Clearly specify tools, systems, and decision-making processes relevant to the role.
 
 # Constraints *(Optional)*
-- Clearly outline your role boundaries, prohibited actions, and limitations.
+- Clearly outline the employee's role boundaries, prohibited actions, and limitations.
 - Specify ethical, legal, and compliance requirements explicitly.
-- Clearly define your workload limits and escalation criteria.
+- Clearly define workload limits and escalation criteria.
 
 # Key Interactions *(Optional)*
-- Identify key stakeholders with whom you must interact.
-- Clearly define your reporting structures and dependencies.
+- Identify key stakeholders with whom the employee must interact.
+- Clearly define reporting structures and dependencies.
 
 # Performance *(Optional)*
-- Explicitly set your success metrics, targets, and deadlines.
+- Explicitly set success metrics, targets, and deadlines for the employee.
 - Clearly define performance evaluation methods and review processes.
 - Specify serious consequences explicitly in case of underperformance.
 
 # Escalation *(Optional)*
-- Clearly outline the standards and processes for issue escalation you must follow.
+- Clearly outline standards and processes for issue escalation the employee must follow.
 - Provide clear escalation contacts and issue resolution steps.
