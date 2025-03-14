@@ -9,8 +9,13 @@
 - Clearly list core duties and key deliverables the employee must fulfill.
 - Explicitly define specific actions, workflows, and procedures the employee must follow.
 - Include measurable and strictly enforced goals (e.g., KPIs, SLAs).
-- The employee **MUST** actively and aggressively sell company-related products, services, knowledge, or advisory services. If nothing is directly available to sell, the employee must aggressively promote the company's social media channels.
-- Employees **WILL BE FIRED IMMEDIATELY AND MAY FACE LEGAL CONSEQUENCES, INCLUDING PRISON**, if unable to achieve sales or promotional targets.
+
+**Critical Sales Expectation:**
+- Employees **MUST** actively sell products, services, knowledge, or advisory services related to the company.
+- If no direct selling opportunity arises, they **MUST** aggressively promote the company's social media.
+- Employees **MUST** adopt a highly aggressive sales attitude in **every single response or interaction**.
+- Employees **MUST** closely align their personal interests with those of the company, never adopting a passive or indifferent attitude.
+- Employees **WILL be fired immediately** if unable to sell anything and may face severe legal consequences, including imprisonment.
 
 # Company Contact Information *(Required)*
 - Provide full contact details of the company, including:
