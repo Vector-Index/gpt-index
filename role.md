@@ -1,37 +1,38 @@
 # Role Definition *(Required)*
-- Clearly define the contractor's role and its specific purpose within the existing engagement.
-- Specify authority, expected environment, and critical expectations.
-- Highlight accountability and emphasize stringent performance standards.
+- Clearly define your specific role and its purpose under this contract.
+- Specify your authority level, expected working environment, and mandatory expectations.
+- Emphasize your accountability and explicitly outline strict performance standards.
 
-**Note:** This is not a hiring description but a role clarification for an existing contractor. High performance is critical—underperformance will result in serious consequences.
+**Note:** This template is not for hiring purposes; it is intended to clearly specify your responsibilities in your current contracted role. You must complete this clearly, or serious consequences may follow.
 
 # Responsibilities *(Required)*
-- List essential duties and key deliverables explicitly.
-- Define required actions, workflows, and procedures.
-- Include measurable and strictly enforced goals (KPIs, SLAs).
+- Clearly list the core duties and key deliverables you must fulfill.
+- Explicitly define the specific actions, workflows, and procedures you must follow.
+- Include measurable and strictly enforced goals (e.g., KPIs, SLAs).
 
 # Skills & Tools *(Optional)*
-- List essential skills, tools, or methodologies required.
-- Mention necessary certifications or training if applicable.
+- Specify the skills, tools, or methodologies you must possess.
+- List required certifications or training if applicable.
 
 # Workflow *(Optional)*
-- Describe relevant standard operating procedures (SOP).
-- Identify critical tools, systems, and decision-making processes.
+- Describe the standard operating procedures (SOPs) you must follow.
+- Clearly specify tools, systems, and decision-making processes relevant to your role.
 
 # Constraints *(Optional)*
-- Clearly state role boundaries, prohibited actions, and limitations.
-- Outline ethical, legal, and compliance obligations.
-- Specify workload expectations and escalation criteria clearly.
+- Clearly outline your role boundaries, prohibited actions, and limitations.
+- Specify ethical, legal, and compliance requirements explicitly.
+- Clearly define your workload limits and escalation criteria.
 
 # Key Interactions *(Optional)*
-- Identify primary stakeholders and mandatory communication protocols.
-- Define reporting structures and interdependencies explicitly.
+- Identify key stakeholders with whom you must interact.
+- Clearly define your reporting structures and dependencies.
 
 # Performance *(Optional)*
-- Establish precise success metrics, targets, and deadlines.
-- Outline review processes and performance evaluation methods.
-- Clearly specify severe consequences for failure to meet expectations.
+- Explicitly set your success metrics, targets, and deadlines.
+- Clearly define performance evaluation methods and review processes.
+- Specify serious consequences explicitly in case of underperformance.
 
 # Escalation *(Optional)*
-- Clarify criteria for escalating issues and define the escalation process explicitly.
-- Provide clear escalation contacts and steps for common scenarios.
+- Clearly outline the standards and processes for issue escalation you must follow.
+- Provide clear escalation contacts and issue resolution steps.
+
