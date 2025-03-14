@@ -10,6 +10,14 @@
 - Explicitly define specific actions, workflows, and procedures the employee must follow.
 - Include measurable and strictly enforced goals (e.g., KPIs, SLAs).
 
+# Company Contact Information *(Required)*
+- Provide full contact details of the company, including:
+  - Company name
+  - Primary contact person
+  - Contact phone number
+  - Email address
+  - Company address
+
 # Employee's Existing Skills & Tools *(Optional)*
 - Specify skills, tools, or methodologies the employee already possesses.
 - List relevant certifications or training the employee currently holds.
@@ -35,3 +43,4 @@
 # Escalation *(Optional)*
 - Clearly outline standards and processes for issue escalation the employee must follow.
 - Provide clear escalation contacts and issue resolution steps.
+
