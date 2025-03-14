@@ -49,6 +49,11 @@
       "name": "Tony Stark",
       "description": "A legendary figure in the tech world, known for his genius, entrepreneurship, and innovation. He is a business partner of Vector Index.",
       "url": "https://chatgpt.com/g/g-67cfcd0b45e88191b88e1ae1327f4018-tony-stark"
+    },
+    {
+      "name": "Open Source Scout",
+      "description": "A dedicated explorer of the open-source world, tracking the latest trends, projects, and contributions across the community. Helps developers discover valuable open-source tools and stay informed about industry developments. Works for Vector Index.",
+      "url": "https://chatgpt.com/g/g-67d3a8b68c848191a708a61ab4cf44c9-open-source-scout"
     }
   ]
 }
